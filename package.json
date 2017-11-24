@@ -21,6 +21,7 @@
   "homepage": "https://github.com/postgres-plugin/helpers#readme",
   "dependencies": {
     "env2": "^2.2.0",
+    "fs": "0.0.1-security",
     "pg": "^7.4.0",
     "pg-helpers": "^1.0.0",
     "url": "^0.11.0",
