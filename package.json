@@ -1,0 +1,29 @@
+{
+  "name": "helpers",
+  "version": "0.0.1",
+  "description": "helpers function to match postgres data with API data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postgres-plugin/helpers.git"
+  },
+  "keywords": [
+    "postgres"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/postgres-plugin/helpers/issues"
+  },
+  "homepage": "https://github.com/postgres-plugin/helpers#readme",
+  "dependencies": {
+    "env2": "^2.2.0",
+    "pg": "^7.4.0",
+    "pg-helpers": "^1.0.0",
+    "url": "^0.11.0",
+    "wreck": "^12.5.0"
+  }
+}
